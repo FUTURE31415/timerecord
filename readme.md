@@ -19,3 +19,6 @@
 9-10 弄权重;摄像机视角大小调整;ori大小和活动空间大小确定
 
 11-15 Ori移动轨迹;图标生成正方体优化(描边+透明)
+
+16-18 Ori初始演示完成;Ori的后台监控鼠标和键盘行为全部完成;Pokemon开放世界进程开始(目前进程:开放世界(主)+ori制造(次)+信长14pv还原(末)+Pokemon chess(末))
+![image](https://github.com/IFAFOX/timerecord/blob/master/OriPlayOnYourDesktop-show(simple).png)
