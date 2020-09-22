@@ -22,3 +22,5 @@
 
 16-18 Ori初始演示完成;Ori的后台监控鼠标和键盘行为全部完成;Pokemon开放世界进程开始(目前进程:开放世界(主)+ori制造(次)+信长14pv还原(末)+Pokemon chess(末))
 ![image](https://github.com/IFAFOX/timerecord/blob/master/OriPlayOnYourDesktop-show(simple).png)
+
+19-21 Ori动画尝试;动画调用步骤熟悉
