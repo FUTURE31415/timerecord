@@ -24,3 +24,5 @@
 ![image](https://github.com/IFAFOX/timerecord/blob/master/OriPlayOnYourDesktop-show(simple).png)
 
 19-21 Ori动画尝试;动画调用步骤熟悉
+
+26动画攻
